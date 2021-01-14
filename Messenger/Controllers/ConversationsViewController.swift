@@ -5,7 +5,8 @@
 //  Created by Octav Radulian on 13.01.2021.
 //
 
-//1 check if the user is signed in based on some user defaults or guide to resgistration
+//1 check if the user is signed in based on some user defaults or guide to resgistration, this is the first view controller
+
 
 import UIKit
 
