@@ -19,6 +19,7 @@
 		EC2CAAB025AF6C7900936BAC /* VideoPlayerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC2CAAAF25AF6C7900936BAC /* VideoPlayerViewController.swift */; };
 		EC2CAAB325AF6CA200936BAC /* NewConversationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC2CAAB225AF6CA200936BAC /* NewConversationViewController.swift */; };
 		EC2CAAB625AF6CBA00936BAC /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC2CAAB525AF6CBA00936BAC /* ProfileViewController.swift */; };
+		EC9CEDCF25B197B90071BC89 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC9CEDCE25B197B90071BC89 /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		EC2CAAAF25AF6C7900936BAC /* VideoPlayerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerViewController.swift; sourceTree = "<group>"; };
 		EC2CAAB225AF6CA200936BAC /* NewConversationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewConversationViewController.swift; sourceTree = "<group>"; };
 		EC2CAAB525AF6CBA00936BAC /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		EC9CEDCE25B197B90071BC89 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 			children = (
 				EC2CAA8525AF4F2B00936BAC /* AppDelegate.swift */,
 				EC2CAA8725AF4F2B00936BAC /* SceneDelegate.swift */,
+				EC9CEDCE25B197B90071BC89 /* Extensions.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -216,6 +219,7 @@
 				EC2CAAB325AF6CA200936BAC /* NewConversationViewController.swift in Sources */,
 				EC2CAA8A25AF4F2B00936BAC /* ConversationsViewController.swift in Sources */,
 				EC2CAAB025AF6C7900936BAC /* VideoPlayerViewController.swift in Sources */,
+				EC9CEDCF25B197B90071BC89 /* Extensions.swift in Sources */,
 				EC2CAA8625AF4F2B00936BAC /* AppDelegate.swift in Sources */,
 				EC2CAAB625AF6CBA00936BAC /* ProfileViewController.swift in Sources */,
 				EC2CAA8825AF4F2B00936BAC /* SceneDelegate.swift in Sources */,
