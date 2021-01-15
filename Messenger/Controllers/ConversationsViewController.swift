@@ -7,6 +7,10 @@
 
 //1 check if the user is signed in based on some user defaults or guide to resgistration, this is the first view controller
 
+// app lifecicle
+// view lifecicle
+
+
 
 import UIKit
 
